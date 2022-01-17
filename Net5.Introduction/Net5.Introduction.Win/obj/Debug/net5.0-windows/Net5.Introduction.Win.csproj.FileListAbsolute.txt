@@ -1,0 +1,16 @@
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\bin\Debug\net5.0-windows\Net5.Introduction.Win.exe
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\bin\Debug\net5.0-windows\Net5.Introduction.Win.deps.json
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\bin\Debug\net5.0-windows\Net5.Introduction.Win.runtimeconfig.json
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\bin\Debug\net5.0-windows\Net5.Introduction.Win.runtimeconfig.dev.json
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\bin\Debug\net5.0-windows\Net5.Introduction.Win.dll
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\bin\Debug\net5.0-windows\ref\Net5.Introduction.Win.dll
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\bin\Debug\net5.0-windows\Net5.Introduction.Win.pdb
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\obj\Debug\net5.0-windows\Net5.Introduction.Win.csproj.AssemblyReference.cache
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\obj\Debug\net5.0-windows\Net5.Introduction.Win.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\obj\Debug\net5.0-windows\Net5.Introduction.Win.AssemblyInfoInputs.cache
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\obj\Debug\net5.0-windows\Net5.Introduction.Win.AssemblyInfo.cs
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\obj\Debug\net5.0-windows\Net5.Introduction.Win.csproj.CoreCompileInputs.cache
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\obj\Debug\net5.0-windows\Net5.Introduction.Win.dll
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\obj\Debug\net5.0-windows\ref\Net5.Introduction.Win.dll
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\obj\Debug\net5.0-windows\Net5.Introduction.Win.pdb
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.Win\obj\Debug\net5.0-windows\Net5.Introduction.Win.genruntimeconfig.cache

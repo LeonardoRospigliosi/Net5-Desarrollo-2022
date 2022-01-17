@@ -1,0 +1,16 @@
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\bin\Debug\net5.0\Net5.Introduction.ConsoleApp.exe
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\bin\Debug\net5.0\Net5.Introduction.ConsoleApp.deps.json
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\bin\Debug\net5.0\Net5.Introduction.ConsoleApp.runtimeconfig.json
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\bin\Debug\net5.0\Net5.Introduction.ConsoleApp.runtimeconfig.dev.json
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\bin\Debug\net5.0\Net5.Introduction.ConsoleApp.dll
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\bin\Debug\net5.0\ref\Net5.Introduction.ConsoleApp.dll
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\bin\Debug\net5.0\Net5.Introduction.ConsoleApp.pdb
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\obj\Debug\net5.0\Net5.Introduction.ConsoleApp.csproj.AssemblyReference.cache
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\obj\Debug\net5.0\Net5.Introduction.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\obj\Debug\net5.0\Net5.Introduction.ConsoleApp.AssemblyInfoInputs.cache
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\obj\Debug\net5.0\Net5.Introduction.ConsoleApp.AssemblyInfo.cs
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\obj\Debug\net5.0\Net5.Introduction.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\obj\Debug\net5.0\Net5.Introduction.ConsoleApp.dll
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\obj\Debug\net5.0\ref\Net5.Introduction.ConsoleApp.dll
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\obj\Debug\net5.0\Net5.Introduction.ConsoleApp.pdb
+D:\GitHub\Net5-Desarrollo-2022\Net5.Introduction\Net5.Introduction.ConsoleApp\obj\Debug\net5.0\Net5.Introduction.ConsoleApp.genruntimeconfig.cache
